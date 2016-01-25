@@ -1,0 +1,8 @@
+{   
+    "secret": "e2199fe7-ebad-4124-a8fa-d6c95653aff9",
+    "presence": true,
+    "join_leave": true,
+    "history_size": 10,
+    "history_lifetime": 300,
+    "recover": true
+}
