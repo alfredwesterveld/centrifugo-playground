@@ -1,6 +1,6 @@
 Just playing around with [centrifugo](https://github.com/centrifugal/centrifugo) for now.
 
-download centrifugo for your OS.
+download centrifugo release for your OS from there [release](https://github.com/centrifugal/centrifugo/releases) page.
 
 Run `./centrifugo --config=config.json --insecure=true -a localhost`
 
